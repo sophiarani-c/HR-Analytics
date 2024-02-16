@@ -11,7 +11,8 @@ Some of their concerns were:
 * Knowing how many people are taking sick leaves.
 
 # HR Analytics Dashboard
-<img width="695" alt="image" src="https://github.com/sophiarani-c/HR-Analytics/assets/149110280/92ef569b-55a6-4a97-8f3a-46904bfa5eb3">
+<img width="853" alt="HR-Analytics1" src="https://github.com/sophiarani-c/HR-Analytics/assets/149110280/15238a01-7a63-4e61-98f7-7bdd8f831f63">
+
 
 # Data Model with Measures Table
 <img width="627" alt="image" src="https://github.com/sophiarani-c/HR-Analytics/assets/149110280/1c84f395-03c3-496b-812d-024a3c5446c0">

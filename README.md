@@ -13,6 +13,9 @@ Some of their concerns were:
 # HR Analytics Dashboard
 <img width="853" alt="HR-Analytics1" src="https://github.com/sophiarani-c/HR-Analytics/assets/149110280/15238a01-7a63-4e61-98f7-7bdd8f831f63">
 
+# Insights from the Dashboard
 
-# Data Model with Measures Table
-<img width="627" alt="image" src="https://github.com/sophiarani-c/HR-Analytics/assets/149110280/1c84f395-03c3-496b-812d-024a3c5446c0">
+During the three-month period, attendance percentages fluctuated, peaking in April and declining in May, likely due to the summer vacation season. Overall attendance averaged 91.8%. There was a notable increase in Work From Home (WFH) percentages, particularly on Fridays, while Sick Leave rates were higher on Mondays. Interestingly, employees with 100% WFH had perfect attendance. Between June 9 and June 17, 2022, WFH percentages showed a significant upward trend, rising by 9.2%. However, Sick Leave percentages spiked unexpectedly on Monday, June 13, 2022, reaching 3.80%, surpassing the anticipated range of 2.98% to 3.35%. 
+
+# Suggestion
+Considering these trends, transitioning to a hybrid model—incorporating three days in-office and two days WFH per week—could optimize resources, potentially reducing rental expenses if additional space is required.
